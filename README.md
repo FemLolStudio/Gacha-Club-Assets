@@ -13,7 +13,7 @@ The files are still being sorted, it will take time.
 PNG and SVG file formats.
 
 ---
-### Download
+### Download app
 - Official page: [Gacha Club](https://gacha.club/)
 - Windows: [Itch.io](https://lunime.itch.io/gacha-club)
 - Android: [Google Play Store](https://play.google.com/store/apps/details?id=air.com.lunime.gachaclub)

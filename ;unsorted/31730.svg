@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="91.75px" width="87.75px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 43.85, 45.85)">
+    <path d="M-33.95 -44.05 L34.0 -44.05 Q42.1 -44.05 42.1 -35.95 L42.1 36.0 Q42.1 44.1 34.0 44.1 L-33.95 44.1 Q-42.05 44.1 -42.05 36.0 L-42.05 -35.95 Q-42.05 -44.05 -33.95 -44.05 Z" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.6" stroke-width="3.6"/>
+    <path d="M34.0 -41.3 L-33.95 -41.3 Q-39.3 -41.3 -39.3 -35.95 L-39.3 36.0 Q-39.3 41.35 -33.95 41.35 L34.0 41.35 Q39.35 41.35 39.35 36.0 L39.35 -35.95 Q39.35 -41.3 34.0 -41.3 M-33.95 -44.05 L34.0 -44.05 Q42.1 -44.05 42.1 -35.95 L42.1 36.0 Q42.1 44.1 34.0 44.1 L-33.95 44.1 Q-42.05 44.1 -42.05 36.0 L-42.05 -35.95 Q-42.05 -44.05 -33.95 -44.05" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-33.95 -44.05 L34.0 -44.05 Q42.1 -44.05 42.1 -35.95 L42.1 36.0 Q42.1 44.1 34.0 44.1 L-33.95 44.1 Q-42.05 44.1 -42.05 36.0 L-42.05 -35.95 Q-42.05 -44.05 -33.95 -44.05 Z" fill="none" stroke="#4a0d0d" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.8" stroke-width="1.0"/>
+    <path d="M32.35 28.55 L33.7 32.25 37.65 32.35 34.55 34.75 35.65 38.55 32.35 36.3 29.15 38.55 30.25 34.75 27.1 32.35 31.05 32.25 32.35 28.55 M-32.3 28.55 L-30.95 32.25 -27.0 32.35 -30.1 34.75 -29.0 38.55 -32.3 36.3 -35.5 38.55 -34.4 34.75 -37.55 32.35 -33.6 32.25 -32.3 28.55" fill="#ffbdc8" fill-rule="evenodd" stroke="none"/>
+  </g>
+  <defs>
+    <linearGradient gradientTransform="matrix(0.0, 0.0517, -0.0514, 0.0, 0.05, 0.8)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#ffb4cc"/>
+      <stop offset="0.20784313725490197" stop-color="#ff98a3"/>
+      <stop offset="0.5372549019607843" stop-color="#cb4c68" stop-opacity="0.76862746"/>
+      <stop offset="0.984313725490196" stop-color="#ffa1ab" stop-opacity="0.64705884"/>
+    </linearGradient>
+  </defs>
+</svg>

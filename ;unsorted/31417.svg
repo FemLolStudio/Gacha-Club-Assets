@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="63.4px" width="421.35px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 859.7, -113.05)">
+    <path d="M-442.35 162.8 L-442.35 126.7 Q-442.35 117.05 -452.0 117.05 L-645.55 117.05 -645.55 172.45 -452.0 172.45 Q-442.35 172.45 -442.35 162.8 M-649.05 113.55 L-452.0 113.55 Q-438.85 113.55 -438.85 126.7 L-438.85 162.8 Q-438.85 175.95 -452.0 175.95 L-649.05 175.95 -846.05 175.95 Q-859.2 175.95 -859.2 162.8 L-859.2 126.7 Q-859.2 113.55 -846.05 113.55 L-649.05 113.55 -649.05 175.95 -649.05 113.55 M-846.05 117.05 Q-855.7 117.05 -855.7 126.7 L-855.7 162.8 Q-855.7 172.45 -846.05 172.45 L-652.55 172.45 -652.55 117.05 -846.05 117.05" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-442.35 162.8 Q-442.35 172.45 -452.0 172.45 L-645.55 172.45 -645.55 117.05 -452.0 117.05 Q-442.35 117.05 -442.35 126.7 L-442.35 162.8 M-846.05 117.05 L-652.55 117.05 -652.55 172.45 -846.05 172.45 Q-855.7 172.45 -855.7 162.8 L-855.7 126.7 Q-855.7 117.05 -846.05 117.05" fill="url(#gradient1)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-649.05 113.55 L-452.0 113.55 Q-438.85 113.55 -438.85 126.7 L-438.85 162.8 Q-438.85 175.95 -452.0 175.95 L-649.05 175.95 -846.05 175.95 Q-859.2 175.95 -859.2 162.8 L-859.2 126.7 Q-859.2 113.55 -846.05 113.55 L-649.05 113.55 -649.05 175.95" fill="none" stroke="#afc8ff" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.6" stroke-width="1.0"/>
+  </g>
+  <defs>
+    <linearGradient gradientTransform="matrix(0.0, -0.0458, 0.2566, 0.0, -649.05, 136.05)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#465d85"/>
+      <stop offset="0.9921568627450981" stop-color="#533f70"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.0, -0.0458, 0.2566, 0.0, -649.05, 136.05)" gradientUnits="userSpaceOnUse" id="gradient1" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#2a374f"/>
+      <stop offset="0.9921568627450981" stop-color="#352948"/>
+    </linearGradient>
+  </defs>
+</svg>

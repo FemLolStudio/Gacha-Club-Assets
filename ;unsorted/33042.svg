@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="526.75px" width="251.75px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 121.0, -21.35)">
+    <path d="M130.75 440.05 L130.75 548.1 -121.0 548.1 -121.0 21.35 130.75 21.35 130.75 191.7 130.75 440.05 -97.25 440.05 -97.25 191.7 130.75 191.7 -97.25 191.7 -97.25 440.05 130.75 440.05" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    <path d="M36.45 465.75 L127.15 465.75 127.15 527.8 36.45 527.8 36.45 465.75 M-117.2 465.75 L-26.5 465.75 -26.5 527.8 -117.2 527.8 -117.2 465.75" fill="#171927" fill-opacity="0.84705883" fill-rule="evenodd" stroke="none"/>
+    <path d="M36.45 465.75 L127.15 465.75 127.15 527.8 36.45 527.8 36.45 465.75 M-117.2 465.75 L-26.5 465.75 -26.5 527.8 -117.2 527.8 -117.2 465.75" fill="none" stroke="#d0e6ff" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.41960785" stroke-width="1.5"/>
+  </g>
+  <defs>
+    <linearGradient gradientTransform="matrix(0.1537, 0.0, 0.0, 0.3215, 4.85, 284.7)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#151a2b"/>
+      <stop offset="1.0" stop-color="#130c21"/>
+    </linearGradient>
+  </defs>
+</svg>

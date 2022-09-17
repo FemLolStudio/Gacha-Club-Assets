@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="70.7px" width="202.6px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 604.35, -72.65)">
+    <path d="M-405.25 127.5 L-405.25 88.5 Q-405.25 76.15 -417.65 76.15 L-588.45 76.15 Q-600.85 76.15 -600.85 88.5 L-600.85 127.5 Q-600.85 139.85 -588.45 139.85 L-417.65 139.85 Q-405.25 139.85 -405.25 127.5 M-588.45 73.15 L-417.65 73.15 Q-402.25 73.15 -402.25 88.5 L-402.25 127.5 Q-402.25 142.85 -417.65 142.85 L-588.45 142.85 Q-603.85 142.85 -603.85 127.5 L-603.85 88.5 Q-603.85 73.15 -588.45 73.15" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-405.25 127.5 Q-405.25 139.85 -417.65 139.85 L-588.45 139.85 Q-600.85 139.85 -600.85 127.5 L-600.85 88.5 Q-600.85 76.15 -588.45 76.15 L-417.65 76.15 Q-405.25 76.15 -405.25 88.5 L-405.25 127.5" fill="url(#gradient1)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-588.45 73.15 L-417.65 73.15 Q-402.25 73.15 -402.25 88.5 L-402.25 127.5 Q-402.25 142.85 -417.65 142.85 L-588.45 142.85 Q-603.85 142.85 -603.85 127.5 L-603.85 88.5 Q-603.85 73.15 -588.45 73.15 Z" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.54901963" stroke-width="1.0"/>
+  </g>
+  <defs>
+    <linearGradient gradientTransform="matrix(0.0, 0.0584, -0.123, 0.0, -503.0, 129.05)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#3f71b8"/>
+      <stop offset="1.0" stop-color="#7c4cd7"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.0, 0.0584, -0.123, 0.0, -503.0, 129.05)" gradientUnits="userSpaceOnUse" id="gradient1" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#1d2256"/>
+      <stop offset="1.0" stop-color="#3b2966"/>
+    </linearGradient>
+  </defs>
+</svg>

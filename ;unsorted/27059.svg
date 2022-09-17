@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="68.55px" width="44.5px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 22.25, 30.8)">
+    <path d="M-15.75 -30.8 L15.75 -30.8 Q22.25 -30.8 22.25 -24.3 L22.25 31.25 Q22.25 37.75 15.75 37.75 L-15.75 37.75 Q-22.25 37.75 -22.25 31.25 L-22.25 -24.3 Q-22.25 -30.8 -15.75 -30.8 M15.75 -28.8 L-15.75 -28.8 Q-20.25 -28.8 -20.25 -24.3 L-20.25 31.25 Q-20.25 35.75 -15.75 35.75 L15.75 35.75 Q20.25 35.75 20.25 31.25 L20.25 -24.3 Q20.25 -28.8 15.75 -28.8" fill="#8574ad" fill-opacity="0.61960787" fill-rule="evenodd" stroke="none"/>
+    <path d="M15.75 -28.8 Q20.25 -28.8 20.25 -24.3 L20.25 31.25 Q20.25 35.75 15.75 35.75 L-15.75 35.75 Q-20.25 35.75 -20.25 31.25 L-20.25 -24.3 Q-20.25 -28.8 -15.75 -28.8 L15.75 -28.8" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-15.75 -30.8 L15.75 -30.8 Q22.25 -30.8 22.25 -24.3 L22.25 31.25 Q22.25 37.75 15.75 37.75 L-15.75 37.75 Q-22.25 37.75 -22.25 31.25 L-22.25 -24.3 Q-22.25 -30.8 -15.75 -30.8 Z" fill="none" stroke="#12133f" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.50980395" stroke-width="0.05"/>
+  </g>
+  <defs>
+    <linearGradient gradientTransform="matrix(0.0, -0.0374, 0.0247, 0.0, 0.0, 3.75)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0196078431372549" stop-color="#ece0ff" stop-opacity="0.627451"/>
+      <stop offset="0.42745098039215684" stop-color="#ced6f5" stop-opacity="0.627451"/>
+      <stop offset="1.0" stop-color="#d1d8f3" stop-opacity="0.627451"/>
+    </linearGradient>
+  </defs>
+</svg>

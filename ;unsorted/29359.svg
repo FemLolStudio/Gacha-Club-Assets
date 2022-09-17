@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="200.25px" width="251.65px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 146.35, 67.55)">
+    <path d="M-138.55 -67.05 L97.45 -67.05 Q104.8 -67.05 104.8 -59.7 L104.8 13.6 Q104.8 20.9 97.45 20.9 L-138.55 20.9 Q-145.85 20.9 -145.85 13.6 L-145.85 -59.7 Q-145.85 -67.05 -138.55 -67.05" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-18.75 24.25 L104.4 24.25 104.4 76.8 -18.75 76.8 -18.75 24.25" fill="url(#gradient1)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-18.75 79.65 L104.4 79.65 104.4 132.2 -18.75 132.2 -18.75 79.65" fill="url(#gradient2)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-138.55 -67.05 L97.45 -67.05 Q104.8 -67.05 104.8 -59.7 L104.8 13.6 Q104.8 20.9 97.45 20.9 L-138.55 20.9 Q-145.85 20.9 -145.85 13.6 L-145.85 -59.7 Q-145.85 -67.05 -138.55 -67.05 M-18.75 24.25 L104.4 24.25 104.4 76.8 -18.75 76.8 -18.75 24.25 M-18.75 79.65 L104.4 79.65 104.4 132.2 -18.75 132.2 -18.75 79.65" fill="none" stroke="#9dc0d0" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.4" stroke-width="1.0"/>
+  </g>
+  <defs>
+    <linearGradient gradientTransform="matrix(0.153, 0.0, 0.0, 0.0537, -20.55, -23.1)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#121a27" stop-opacity="0.92941177"/>
+      <stop offset="1.0" stop-color="#121120" stop-opacity="0.92941177"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.0, 0.0298, -0.0752, 0.0, 42.85, 50.8)" gradientUnits="userSpaceOnUse" id="gradient1" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.00392156862745098" stop-color="#1b1a33" stop-opacity="0.92941177"/>
+      <stop offset="1.0" stop-color="#1b263f" stop-opacity="0.92941177"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.0, 0.0298, -0.0752, 0.0, 42.85, 106.2)" gradientUnits="userSpaceOnUse" id="gradient2" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.00392156862745098" stop-color="#1b1a33" stop-opacity="0.92941177"/>
+      <stop offset="1.0" stop-color="#1b263f" stop-opacity="0.92941177"/>
+    </linearGradient>
+  </defs>
+</svg>

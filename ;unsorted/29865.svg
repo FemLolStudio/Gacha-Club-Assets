@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="227.8px" width="720.65px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 988.95, 7.65)">
+    <path d="M-274.8 82.4 Q-273.8 81.55 -272.35 81.55 -270.95 81.55 -269.85 82.4 -268.85 83.45 -268.85 84.9 -268.85 86.4 -269.85 87.5 L-269.85 87.55 Q-270.95 88.45 -272.35 88.45 -273.8 88.45 -274.8 87.5 L-274.8 87.55 Q-275.95 86.4 -275.95 84.9 -275.95 83.45 -274.8 82.4 M-293.8 83.9 L-279.4 69.9 Q-278.85 69.35 -278.1 69.35 -277.15 69.35 -276.65 69.9 -276.15 70.55 -276.15 71.25 -276.15 72.15 -276.7 72.65 L-289.65 85.3 -276.85 97.05 Q-276.15 97.6 -276.15 98.45 -276.15 99.2 -276.6 99.85 L-276.65 99.9 Q-277.05 100.4 -278.0 100.4 -278.75 100.4 -279.4 99.9 L-293.85 86.75 -293.9 86.65 -294.35 85.85 -294.35 85.75 -294.35 84.9 -294.35 84.8 -293.8 83.9" fill="url(#gradient0)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-268.85 203.65 Q-268.5 203.95 -268.3 204.55 L-268.3 204.65 -268.3 205.5 -268.3 205.6 -268.75 206.4 -268.8 206.5 -283.15 219.65 Q-283.9 220.15 -284.6 220.15 -285.55 220.15 -285.95 219.65 L-286.0 219.6 Q-286.45 219.0 -286.45 218.2 -286.45 217.35 -285.8 216.8 L-273.0 205.0 -285.9 192.4 Q-286.45 191.9 -286.45 191.0 -286.45 190.3 -285.95 189.65 -285.4 189.1 -284.5 189.1 -283.8 189.1 -283.15 189.65 L-268.85 203.65 M-287.8 202.15 Q-286.7 203.2 -286.7 204.65 -286.7 206.2 -287.8 207.3 L-287.8 207.25 Q-288.75 208.2 -290.25 208.2 -291.65 208.2 -292.75 207.3 L-292.75 207.25 Q-293.8 206.2 -293.8 204.65 -293.8 203.2 -292.75 202.15 -291.65 201.3 -290.25 201.3 -288.75 201.3 -287.8 202.15" fill="url(#gradient1)" fill-rule="evenodd" stroke="none"/>
+    <path d="M-988.2 -6.65 L-661.65 -6.65 -661.65 34.4 -988.2 34.4 -988.2 -6.65" fill="#181f2a" fill-opacity="0.61960787" fill-rule="evenodd" stroke="none"/>
+    <path d="M-655.3 -6.65 L-328.8 -6.65 -328.8 34.4 -655.3 34.4 -655.3 -6.65" fill="#263041" fill-opacity="0.61960787" fill-rule="evenodd" stroke="none"/>
+    <path d="M-988.2 -6.65 L-661.65 -6.65 -661.65 34.4 -988.2 34.4 -988.2 -6.65" fill="none" stroke="#919fc9" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.30980393" stroke-width="1.5"/>
+    <path d="M-655.3 -6.65 L-328.8 -6.65 -328.8 34.4 -655.3 34.4 -655.3 -6.65" fill="none" stroke="#adbef0" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.41960785" stroke-width="2.0"/>
+  </g>
+  <defs>
+    <linearGradient gradientTransform="matrix(0.0, -0.0189, 0.129, 0.0, -188.65, 84.9)" gradientUnits="userSpaceOnUse" id="gradient0" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#80a4d4" stop-opacity="0.8666667"/>
+      <stop offset="0.9921568627450981" stop-color="#737fbf" stop-opacity="0.8666667"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0.0, -0.0189, 0.129, 0.0, -373.9, 204.65)" gradientUnits="userSpaceOnUse" id="gradient1" spreadMethod="pad" x1="-819.2" x2="819.2">
+      <stop offset="0.0" stop-color="#80a4d4" stop-opacity="0.8666667"/>
+      <stop offset="0.9921568627450981" stop-color="#737fbf" stop-opacity="0.8666667"/>
+    </linearGradient>
+  </defs>
+</svg>

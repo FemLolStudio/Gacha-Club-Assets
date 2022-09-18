@@ -1,13 +1,3 @@
----
-output: 
-  html_document:
-     css: https://fonts.googleapis.com/css?family=Sofia
----
-<style>
-    body {
-  font-family: "Sofia", sans-serif;
-}
-</style>
 ![banner](title.jpg)
 # Gacha Club assets
 ---

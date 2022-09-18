@@ -1,5 +1,25 @@
-![banner](https://i.ytimg.com/vi/fjLTafr8VvQ/maxresdefault.jpg)
+![banner](title.jpg)
 # Gacha Club assets
+---
+
+## Ismertető
+Ezt a projektet azért hoztam létre, hogy mindenki szabadon elérje a **Gacha Club** kicsomagolt fájljait és használni tudja a saját projekjéhez.
+
+---
+## Content
+- [Fonts](Fonts)
+- [Scripts](Scripts) *(ActionScript files)*
+- [Sounds](Sounds) *(MP3 files)*
+- [Textures](Textures)
+    - [Backgrounds](Textures/Backgrounds)
+    - [Foregrounds](Textures/Foregrounds)
+    - [**Gacha character parts**](Textures/gacha%20character%20parts) *(PNG and SVG files)*
+    - [Objects](Textures/Objects)
+    - [Other things](Textures/Other%20things)
+    - [Pets](Textures/Pets)
+    - [Textboxes](Textures/Textboxes)
+    - [Unknown things](Textures/Unknown%20things)
+
 ---
 ## FAQ
 
